@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+511142d97a6a5f79a84e2e608349339a9979457e refs/remotes/origin/issue-152-Bug-fix-in-show_sources-flag
+95dfa2d409422ff04bd581f62945dd6f42c9c891 refs/remotes/origin/m2_max
+84e160407dd6117502eb2b0d845d13ba55e8eeb8 refs/remotes/origin/main
+bec31ed2e92cb1e754f20243ccf970cb972e1b18 refs/remotes/origin/pre_merge
+ec16c02421c9f9320d3921c23701526f522fd7bf refs/remotes/origin/revert-146-UI_v1
